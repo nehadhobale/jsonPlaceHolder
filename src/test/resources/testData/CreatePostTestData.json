@@ -1,0 +1,13 @@
+{
+  "slug": "suspendisse",
+  "url": "https://jsonplaceholder.org/posts/suspendisse",
+  "title": "Suspendisse hendrerit enim sit amet turpis posuere dignissim id consectetur eros.",
+  "content": "Id aliquet convallis sodales mi arcu fusce. Congue praesent vitae pretium mattis cras integer mi, metus gravida laoreet. Mi montes leo vulputate magnis est duis. Euismod ligula cubilia eu ipsum, nibh neque! Venenatis vitae netus pellentesque duis pharetra diam. Netus habitasse magna fusce viverra dapibus facilisis molestie fermentum. Lobortis hendrerit gravida volutpat cursus cum phasellus sit vitae, ultrices fringilla. Mi natoque condimentum quam. A faucibus varius commodo luctus sociosqu etiam ornare senectus.",
+  "image": "https://dummyimage.com/800x430/753b01/suspendisse.png&text=jsonplaceholder.org",
+  "thumbnail": "https://dummyimage.com/200x200/753b01/suspendisse.png&text=jsonplaceholder.org",
+  "status": "published",
+  "category": "lorem",
+  "publishedAt": "22/11/2022 18:56:23",
+  "updatedAt": "30/01/2023 18:50:17",
+  "userId": 10
+}
